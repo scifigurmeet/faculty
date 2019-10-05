@@ -1,0 +1,4 @@
+Id,"Fac id",Pass,Qual,Year,Inst,Uni,Type,Id,Qual,Year,Inst,Uni
+0,123,123,"P.H.D. in Computer Science",2018,"IIT, Delhi","24050834 04 Aug 2018 05:26:08pm",prof
+14,hod,123,Matriculation,2014,"New S.M.D Senior Secondary School, Ludhiana","7187782 04 Aug 2018 06:35:33pm",hod
+22,admin,123,MTech.,2020,GNDU,"41351302 05 Aug 2018 05:43:15am",admin
